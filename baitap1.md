@@ -4,7 +4,7 @@
 ---
 
 <h1 id="giới-thiệu-bài-tập">Giới thiệu bài tập</h1>
-<p>chào mừng thầy đã xem bài tập của</p>
+<p>chào mừng thầy đã xem bài tập của em</p>
 <h2 id="mục-tiêu-bài-tập">Mục tiêu bài tập</h2>
 <ul>
 <li>hiểu thêm về Markdown</li>
